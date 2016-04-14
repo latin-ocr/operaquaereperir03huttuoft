@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaereperir03huttuoft/operaquaereperir03huttuoft_0324.png"; bbox 0 0 2081 3517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 530 495 1621 681">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 530 495 1621 681">
+     <span class='ocr_line' id='line_1_1' title="bbox 1372 495 1499 533; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1372 495 1499 533; x_wconf 82' lang='lat' dir='ltr'>Armis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 530 562 1566 612; baseline -0.004 -9"><span class='ocrx_word' id='word_1_2' title='bbox 530 565 765 604; x_wconf 79' lang='lat' dir='ltr'>Mercurium</span> <span class='ocrx_word' id='word_1_3' title='bbox 796 563 827 600; x_wconf 83' lang='lat' dir='ltr'>si</span> <span class='ocrx_word' id='word_1_4' title='bbox 858 573 935 599; x_wconf 86' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_5' title='bbox 966 573 1194 612; x_wconf 71' lang='lat' dir='ltr'>prfeponas‚</span> <span class='ocrx_word' id='word_1_6' title='bbox 1226 563 1392 600; x_wconf 76' lang='lat' dir='ltr'>maxime</span> <span class='ocrx_word' id='word_1_7' title='bbox 1423 562 1566 606; x_wconf 75' lang='lat' dir='ltr'><strong>Caesar,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 636 630 1621 681; baseline -0.004 -12"><span class='ocrx_word' id='word_1_8' title='bbox 636 631 799 681; x_wconf 82' lang='lat' dir='ltr'><strong>Semper</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 831 630 908 668; x_wconf 79' lang='lat' dir='ltr'>eris</span> <span class='ocrx_word' id='word_1_10' title='bbox 938 630 1059 667; x_wconf 76' lang='lat' dir='ltr'>vietor</span> <span class='ocrx_word' id='word_1_11' title='bbox 1089 630 1290 680; x_wconf 81' lang='lat' dir='ltr'>faustaque</span> <span class='ocrx_word' id='word_1_12' title='bbox 1321 641 1441 680; x_wconf 79' lang='lat' dir='ltr'>regna</span> <span class='ocrx_word' id='word_1_13' title='bbox 1471 634 1621 667; x_wconf 81' lang='lat' dir='ltr'>tenens.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 453 882 1770 2194">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 453 882 1770 2194">
+     <span class='ocr_line' id='line_1_4' title="bbox 453 882 1770 2194; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 453 882 1770 2194; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

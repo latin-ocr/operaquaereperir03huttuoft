@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaereperir03huttuoft_0487.png"; bbox 0 0 2081 3517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 136 3139 306 3170">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 136 3139 306 3170">
+     <span class='ocr_line' id='line_1_1' title="bbox 136 3139 306 3170; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 136 3139 306 3170; x_wconf 72' lang='lat' dir='ltr'><strong>Hv‘r‘rmu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 329 997 1492 1077">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 329 997 1492 1077">
+     <span class='ocr_line' id='line_1_2' title="bbox 329 997 1492 1077; baseline 0.004 -6"><span class='ocrx_word' id='word_1_2' title='bbox 329 997 847 1076; x_wconf 82' lang='lat' dir='ltr'>HVTTENI</span> <span class='ocrx_word' id='word_1_3' title='bbox 879 999 1492 1077; x_wconf 84' lang='lat' dir='ltr'>POEMATVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 596 1287 1245 1354">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 596 1287 1245 1354">
+     <span class='ocr_line' id='line_1_3' title="bbox 596 1287 1245 1354; baseline 0 -6"><span class='ocrx_word' id='word_1_4' title='bbox 596 1287 818 1349; x_wconf 76' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_5' title='bbox 871 1288 1245 1354; x_wconf 78' lang='lat' dir='ltr'><strong>QVARTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 263 1554 1572 1604">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 263 1554 1572 1604">
+     <span class='ocr_line' id='line_1_4' title="bbox 263 1554 1572 1604; baseline -0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 263 1554 539 1603; x_wconf 78' lang='lat' dir='ltr'><strong>CONTRA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 578 1554 1016 1604; x_wconf 77' lang='lat' dir='ltr'><strong>ROMANISTAS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1055 1554 1187 1602; x_wconf 79' lang='lat' dir='ltr'><strong>PRO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1228 1554 1572 1603; x_wconf 82' lang='lat' dir='ltr'><strong>LVTHERO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 704 1827 1129 1878">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 704 1827 1129 1878">
+     <span class='ocr_line' id='line_1_5' title="bbox 704 1827 1129 1878; baseline -0.005 -13"><span class='ocrx_word' id='word_1_10' title='bbox 704 1828 763 1878; x_wconf 78' lang='lat' dir='ltr'><strong>[a.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 800 1827 1129 1876; x_wconf 78' lang='lat'>1519...1523.]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 327 3131 1471 3169">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 327 3131 1471 3169">
+     <span class='ocr_line' id='line_1_6' title="bbox 327 3131 1471 3169; baseline -0.001 0"><span class='ocrx_word' id='word_1_12' title='bbox 327 3138 414 3169; x_wconf 78' lang='grc' dir='ltr'>ΟΡΡ.</span> <span class='ocrx_word' id='word_1_13' title='bbox 435 3147 516 3168; x_wconf 68' lang='lat' dir='ltr'>von.</span> <span class='ocrx_word' id='word_1_14' title='bbox 540 3135 606 3167; x_wconf 78' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1420 3131 1471 3168; x_wconf 78' lang='grc'><strong>29</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
